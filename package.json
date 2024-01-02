@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "React concepts",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilakshibhosale/NamasteReact.git"
+  },
+  "author": "Nilakshi Bhosale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilakshibhosale/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/nilakshibhosale/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
